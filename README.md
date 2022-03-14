@@ -31,7 +31,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [https://github.com/ikreuz](https://github.com/ikreuz/frontendmentor-order-summary-component)
-- Live Site URL: []()
+- Live Site URL: [https://frontendmentor-profile-card-component-three.vercel.app/](https://frontendmentor-profile-card-component-three.vercel.app/)
 
 ## My process
 
